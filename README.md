@@ -1,5 +1,9 @@
 # Project: Machine learning for glacier mass balance modelling
 
+**Student:* <br/>
+Ankit Pramanik
+
+
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
